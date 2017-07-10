@@ -1,0 +1,39 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.style{
+  color: #00b3ee;
+}
+.banner{
+  height: 200px;
+  background-color: #f0f1f1;
+  text-align: center;
+}
+.usersd{
+  width: 400px;
+  height: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  background-color: #008ead;
+  padding-top: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.urerTow{
+  width: 300px;
+  height: 200px;
+  background-color: #ebebeb;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.submit{
+  width: 100px;
+}
